@@ -1,0 +1,7 @@
+apiVersion: ref/v1
+kind: Sub
+metadata:
+  name: example-sub
+spec:
+  # Add fields here
+  size: 3

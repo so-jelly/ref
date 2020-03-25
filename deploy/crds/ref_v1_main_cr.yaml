@@ -1,0 +1,7 @@
+apiVersion: ref/v1
+kind: Main
+metadata:
+  name: example-main
+spec:
+  # Add fields here
+  size: 3
